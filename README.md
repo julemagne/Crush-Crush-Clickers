@@ -13,4 +13,4 @@ The coordinates I use work for my personal computer's resolution and likely will
 
 The `Sleep` timeouts work for my personal Reset Boost speed but you will likely need to adjust.  `Sleep`s are in milliseconds. 
 
-After opening the file, press `F1` to start it.  Press `F5` if you wish to abort the script.  Press `F6` to exit AutoHotkey.
+After opening the file, press `F1` to start the macro.  Press `F5` to reload the script to have newly saved changes take effect when you next run the script, or to just abort the script.  Press `F6` to exit AutoHotkey.
