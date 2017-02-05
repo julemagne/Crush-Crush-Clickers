@@ -20,3 +20,9 @@ After opening the file, press `F1` to start the macro.  Press `F5` to reload the
 ### D3 visualization of the click targets:
 
 See the coordinates mapped onto a 1680x1050 resolution here: https://julemagne.github.io/Crush-Crush-D3/
+
+---
+
+This message from the game devs inspires me:
+
+![screenshot](https://raw.githubusercontent.com/julemagne/Crush-Crush-Clickers/master/chillafgamedevs.jpg "Screenshot")
